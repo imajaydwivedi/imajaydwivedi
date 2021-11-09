@@ -4,4 +4,4 @@
 -->
 About Me |   | GitHub Resume
 ------ | - | -----------
-[![About Me](https://github.com/imajaydwivedi/Images/raw/master/Miscellaneous/about-me.png)](https://imajaydwivedi.github.io/) | | [![About Me](https://github.com/imajaydwivedi/Images/raw/master/Miscellaneous/about-me.png)](https://resume.github.io/?imajaydwivedi)
+[<p align="center"><img src="https://github.com/imajaydwivedi/Images/raw/master/Miscellaneous/about-me.png" alt="About Me"/></p>](https://imajaydwivedi.github.io/) | | [<p align="center"><img src="https://github.com/imajaydwivedi/Images/raw/master/Miscellaneous/resume.png" alt="G. Resume"/></p>](https://resume.github.io/?imajaydwivedi)
