@@ -1,4 +1,4 @@
-[<p align="center"><img src="https://stackoverflow.com/users/flair/4449743.png?theme=dark" alt="StackOverflow Profile"/></p>](https://stackoverflow.com/story/ajaydwivedi2007)
+<p align="center"><img src="https://github.com/imajaydwivedi/Images/raw/master/Miscellaneous/about-me.png" alt="About Me"/></p>
 
 About Me | GitHub Resume | ajaydwivedi.com | LinkedIn | YouTube
 -------- | ------------- | --------------- | -------- | -------
